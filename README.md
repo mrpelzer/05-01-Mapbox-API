@@ -1,5 +1,7 @@
 # 🗺️ Mapbox API – Account Setup Guide
 
+![Alt text](src/img/preview.png "Mapbox Preview")
+
 ## 1. Go to Mapbox Signup
 
 Visit the official signup page:  

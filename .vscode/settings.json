@@ -4,6 +4,7 @@
   "editor.acceptSuggestionOnEnter": "off",
   "editor.suggestOnTriggerCharacters": false,
   "editor.suggest.showWords": false,
+  "editor.formatOnSave": true,
   "editor.quickSuggestions": {
     "other": false,
     "comments": false,
